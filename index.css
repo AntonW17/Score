@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #03045e;
+    color: white;
+    font-family: 'Digital-7 Mono', sans-serif;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+button {
+    font-family: 'Digital-7 Mono', sans-serif;
+   background: none;
+   color: gray;
+   border-radius: 5px;
+   border: 1px solid gray;
+}
+
+#home-score{
+    padding: 20px 10px 20px 10px;
+    background-color: #0096c7;
+    font-family: 'Digital-7 Mono', sans-serif;
+    font-size: xxx-large;
+    border: 2px solid gray;
+}
+
+#guest-score{
+    padding: 20px 10px 20px 10px;
+    background-color: #0096c7;
+    font-family: 'Digital-7 Mono', sans-serif;
+    font-size: xxx-large;
+    border: 2px solid gray;
